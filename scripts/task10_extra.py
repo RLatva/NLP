@@ -1,3 +1,9 @@
+#This was an accidental implementation of task 10 that we feel didn't do what it was supposed to
+#It compares the empath vectors of dialogue acts between different age-groups
+#Run this code like task10.py to see how similar the dialogue acts are in terms of 
+#empath vecors between age groups
+#There are tons of prints as output since we are calculating every comparison of dialogue acts 
+#between age-groups
 import nltk
 from nltk.corpus import nps_chat as nps
 from nltk.corpus import stopwords
